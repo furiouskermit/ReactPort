@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.4ca0636d.css",
-    "main.js": "/My-React-Portfolio/static/js/main.d0d398e6.js",
-    "static/media/news.svg": "/My-React-Portfolio/static/media/news.4abbd6579b8e9a088bf5398e8036918e.svg",
-    "static/media/todolist.svg": "/My-React-Portfolio/static/media/todolist.a8dcecd41218174fa3291198b3340e8e.svg",
-    "index.html": "/My-React-Portfolio/index.html",
-    "static/media/movie.svg": "/My-React-Portfolio/static/media/movie.b4bedcb21a620257ed8f48facbe5b658.svg",
-    "static/media/home.svg": "/My-React-Portfolio/static/media/home.c63c636f460ff577eed9c830936d3ce3.svg",
-    "main.4ca0636d.css.map": "/My-React-Portfolio/static/css/main.4ca0636d.css.map",
-    "main.d0d398e6.js.map": "/My-React-Portfolio/static/js/main.d0d398e6.js.map"
+    "main.css": "/ReactPort/static/css/main.4ca0636d.css",
+    "main.js": "/ReactPort/static/js/main.92d4171e.js",
+    "static/media/news.svg": "/ReactPort/static/media/news.4abbd6579b8e9a088bf5398e8036918e.svg",
+    "static/media/todolist.svg": "/ReactPort/static/media/todolist.a8dcecd41218174fa3291198b3340e8e.svg",
+    "static/media/movie.svg": "/ReactPort/static/media/movie.b4bedcb21a620257ed8f48facbe5b658.svg",
+    "index.html": "/ReactPort/index.html",
+    "static/media/home.svg": "/ReactPort/static/media/home.c63c636f460ff577eed9c830936d3ce3.svg",
+    "main.4ca0636d.css.map": "/ReactPort/static/css/main.4ca0636d.css.map",
+    "main.92d4171e.js.map": "/ReactPort/static/js/main.92d4171e.js.map"
   },
   "entrypoints": [
     "static/css/main.4ca0636d.css",
-    "static/js/main.d0d398e6.js"
+    "static/js/main.92d4171e.js"
   ]
 }
