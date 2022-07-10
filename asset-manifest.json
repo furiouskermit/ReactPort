@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ReactPort/static/css/main.4ca0636d.css",
-    "main.js": "/ReactPort/static/js/main.9ca27e5e.js",
+    "main.js": "/ReactPort/static/js/main.df9e8480.js",
     "static/media/news.svg": "/ReactPort/static/media/news.4abbd6579b8e9a088bf5398e8036918e.svg",
     "static/media/todolist.svg": "/ReactPort/static/media/todolist.a8dcecd41218174fa3291198b3340e8e.svg",
     "static/media/movie.svg": "/ReactPort/static/media/movie.b4bedcb21a620257ed8f48facbe5b658.svg",
     "index.html": "/ReactPort/index.html",
     "static/media/home.svg": "/ReactPort/static/media/home.c63c636f460ff577eed9c830936d3ce3.svg",
     "main.4ca0636d.css.map": "/ReactPort/static/css/main.4ca0636d.css.map",
-    "main.9ca27e5e.js.map": "/ReactPort/static/js/main.9ca27e5e.js.map"
+    "main.df9e8480.js.map": "/ReactPort/static/js/main.df9e8480.js.map"
   },
   "entrypoints": [
     "static/css/main.4ca0636d.css",
-    "static/js/main.9ca27e5e.js"
+    "static/js/main.df9e8480.js"
   ]
 }
